@@ -1,0 +1,1 @@
+print(f"area ={0.5*float(input("enter height"))* float(input("enter base")):.3f}")

@@ -1,0 +1,1 @@
+print(f"simple interest={(float(input("enter principal"))*float(input("enter rate"))*float(input("enter time")))/100:.2f}")

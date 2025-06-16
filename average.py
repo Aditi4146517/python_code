@@ -1,0 +1,1 @@
+print(f"average of three numbers={(float(input("enter first number"))+float(input("enter second number"))+float(input("enter third number")))/3:.2f}")
